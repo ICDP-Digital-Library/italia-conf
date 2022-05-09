@@ -1,23 +1,12 @@
 publisher:
-  name: Ministero della Documentazione Pubblica
+  name: Ministero della Cultura, Istituto centrale per la digitalizzazione del patrimonio culturale - DIGITAL LIBRARY
   description: |
-    Lorem ipsum dolor sit amet, consectetur 
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud 
-    exercitation ullamco laboris nisi ut 
-    aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in 
-    voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint 
-    occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id 
-    est laborum.
-  github_organization_url: github.com/organization_name
-  short_name: Min. Doc. Pub.
-  website: https://www.ministerodocumentazione.gov.it
+    descrizione [...]
+  github_organization_url: github.com/ICDP-Digital-Library
+  short_name: ICDP-DL
+  website: https://digitallibrary.cultura.gov.it/
   tags:
-    - documents
-    - public
-    - amazing publisher
+    - cultural heritage
+    - digitalization
+    - ...
   logo: assets/images/logo.svg
