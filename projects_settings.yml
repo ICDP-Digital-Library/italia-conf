@@ -1,24 +1,13 @@
 projects:
-  - name: Progetto Documentato Pubblicamente
-    description: |
-      Lorem ipsum dolor sit amet, consectetur 
-      adipisicing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua. 
-      Ut enim ad minim veniam, quis nostrud 
-      exercitation ullamco laboris nisi ut 
-      aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in 
-      voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur. Excepteur sint 
-      occaecat cupidatat non proident, sunt in
-      culpa qui officia deserunt mollit anim id 
-      est laborum.
+  - name: Piano nazionale di digitalizzazione del patrimonio culturale
+    description: 
+      descrizione del piano [...]
     documents:
       - project-document-doc
       - another-project-document-doc
-    short_name: PDP
-    website: https://progetto.ministerodocumentazione.gov.it
+    short_name: PND
+    website: https://digitallibrary.cultura.gov.it
     tags:
-      - digital
-      - citizenship
-      - amazing project
+      - digitalization
+      - cultural heritage
+      - 
