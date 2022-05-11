@@ -1,12 +1,18 @@
 publisher:
-  name: Ministero della Cultura, Istituto centrale per la digitalizzazione del patrimonio culturale - DIGITAL LIBRARY
+  name: Istituto centrale per la digitalizzazione del patrimonio culturale - DIGITAL LIBRARY, Ministero della Cultura
   description: |
-    descrizione [...]
+   L’Istituto centrale per la digitalizzazione del patrimonio culturale – Digital Library nasce con l’obiettivo di coordinare e promuovere i programmi di digitalizzazione del patrimonio culturale del Ministero della Cultura (articoli 33 e 35 del decreto del Presidente del Consiglio dei Ministri 2 dicembre 2019, n. 169).
+   Ha il compito di elaborare il Piano nazionale di digitalizzazione del patrimonio culturale e di curarne l’attuazione; realizza censimenti sullo stato della digitalizzazione ed esprime un parere obbligatorio e vincolante su ogni iniziativa del Ministero in materia; fornisce supporto agli uffici del Ministero
+   e redige accordi tipo per la realizzazione di progetti di digitalizzazione del patrimonio culturale, anche in collaborazione con altri enti pubblici o privati; coordina le iniziative atte ad assicurare la catalogazione del patrimonio culturale (articolo 17 del Codice dei beni culturali e del paesaggio).
+   Inoltre, la Digital Library svolge le funzioni di indirizzo e controllo sull’Istituto centrale per gli archivi, l’Istituto centrale per i beni sonori e audiovisivi, l’Istituto centrale per il catalogo e la documentazione e l’Istituto centrale per il catalogo unico delle biblioteche italiane.
   github_organization_url: github.com/ICDP-Digital-Library
-  short_name: ICDP-DL
+  short_name: Digital Library
   website: https://digitallibrary.cultura.gov.it/
   tags:
     - cultural heritage
     - digitalization
-    - ...
   logo: assets/images/logo.svg
+ 
+
+ 
+
