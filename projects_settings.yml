@@ -5,10 +5,15 @@ projects:
     Il piano si rivolge ai musei, agli archivi, alle biblioteche, agli istituti centrali e ai luoghi della cultura statali che conservano, gestiscono e valorizzano i beni culturali.
     documents:
       - project-document-doc
-      - another-project-document-doc
+      - allegato1-project-document-doc
+      - allegato2-project-document-doc
+      - allegato3-project-document-doc
+      - allegato4-project-document-doc
+      - appendici-project-document-doc
     short_name: PND
     website: https://digitallibrary.cultura.gov.it
     tags:
       - digitalization
       - cultural heritage
-      - 
+      - digital transformation
+      - museum
